@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<config>
+	<window title="Witaj" message="Wybierz opcje" backgroundColor="#FFFFFFFF" />
+	<buttons>
+		<application title="Explorer" path="explorer.exe"/>
+		<application title="Notepad" path="notepad.exe"/>
+		<application title="Calc" path="calc.exe"/>
+	</buttons>
+</config>
